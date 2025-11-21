@@ -1,5 +1,9 @@
 # 💫 About Me:
-Motivated entry-level DevOps engineer with a solid foundation in<br>Python, Linux, CI/CD, Docker and cloud technologies.<br>I have experience in infrastructure development, deployment automation and monitoring<br>in pet projects and team tasks.<br>Able to adapt quickly, learn new things and deep dive into tasks.<br>The goal is to contribute to the reliability and scalability of the company's <br>engineering processes.
+I create solutions that require a front-to-back stack: web interfaces, API microservices, bots, and even video streaming integrations.<br>
+
+My experience covers projects in medicine (telemedicine, clinics), cryptocurrency and trading, as well as corporate tools (e.g., Service Desk bot system).<br>I am interested not just in “writing code,” but in creating a product that works, scales, and brings value.
+Technologies I often work with: TypeScript/JavaScript, Python, CSS, FastAPI, RTMP/HLS solutions.<br>I am open to new challenges, love to experiment, and am ready to grow with the team.
+
 
 
 ## 🌐 Socials:
