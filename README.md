@@ -44,8 +44,8 @@ Recent work: a patient loyalty app used by real patients, a telemedicine platfor
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=gr33njj&show_icons=true&hide_border=true&bg_color=0D0D12&title_color=A78BFA&icon_color=7C3AED&text_color=C9D1D9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gr33njj&layout=compact&hide_border=true&bg_color=0D0D12&title_color=A78BFA&text_color=C9D1D9&langs_count=8" />
+<img height="165" src="https://github-readme-stats-murex-zeta-17.vercel.app/api?username=gr33njj&show_icons=true&hide_border=true&bg_color=0D0D12&title_color=A78BFA&icon_color=7C3AED&text_color=C9D1D9&count_private=true" />
+<img height="165" src="https://github-readme-stats-murex-zeta-17.vercel.app/api/top-langs/?username=gr33njj&layout=compact&hide_border=true&bg_color=0D0D12&title_color=A78BFA&text_color=C9D1D9&langs_count=8" />
 
 <img src="https://streak-stats.demolab.com/?user=gr33njj&hide_border=true&background=0D0D12&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA" />
 
